@@ -5,4 +5,3 @@
 <h3>React-Redux <h3>
 
 <img src="react-redux.gif"/>
-# React-Redux-Crud
